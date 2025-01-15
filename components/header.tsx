@@ -21,6 +21,7 @@ export default function Header() {
           <li><DarkModeToggle /></li>
         </ul>
       </nav>
+    
     </header>
   )
 }
